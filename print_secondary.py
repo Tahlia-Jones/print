@@ -25,3 +25,6 @@ print('Separating', 'words', 'with', 'something', 'new!', sep='@')
 #
 # WRITE CODE BELOW
 
+print('tahlia_jones')
+print('06/30/21')
+print('a###b###c')
